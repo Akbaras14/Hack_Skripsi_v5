@@ -1,0 +1,15 @@
+test_draft_pdf_export (test_thesis.ThesisCliTests.test_draft_pdf_export)
+Membuat PDF draf untuk menguji alur render yang sebenarnya. ... ok
+test_final_rejected_when_missing_evidence (test_thesis.ThesisCliTests.test_final_rejected_when_missing_evidence)
+Finalisasi harus ditolak saat bukti, sumber dan persetujuan tidak ada. ... ok
+test_full_synthetic_review_and_final_workflow (test_thesis.ThesisCliTests.test_full_synthetic_review_and_final_workflow)
+Menguji mekanik final dengan artefak uji yang secara eksplisit tidak sah akademik. ... ok
+test_init_templates_and_registry (test_thesis.ThesisCliTests.test_init_templates_and_registry)
+Workspace baru harus memiliki lima bab dan registri kosong. ... ok
+test_provenance_hash_and_citation (test_thesis.ThesisCliTests.test_provenance_hash_and_citation)
+Sitasi dan data uji harus ditautkan ke ID yang dapat ditemukan. ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 20.350s
+
+OK

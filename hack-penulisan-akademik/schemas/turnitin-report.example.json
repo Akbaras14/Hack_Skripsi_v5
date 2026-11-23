@@ -1,0 +1,13 @@
+{
+  "source": "user_supplied_report",
+  "report_type": "similarity",
+  "score_percent": 23,
+  "report_date": "2026-11-23",
+  "document_title": "CONTOH DATA SINTETIS - BUKAN LAPORAN TURNITIN NYATA",
+  "transcribed_by": "Peneliti uji",
+  "language": "id",
+  "notes": "Hanya demonstrasi skema, jangan digunakan sebagai bukti nyata.",
+  "matches": [
+    {"location": "Bab II paragraf 3", "category": "unknown", "source_label": "Sumber yang tercantum dalam laporan"}
+  ]
+}

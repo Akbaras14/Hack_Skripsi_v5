@@ -1,0 +1,65 @@
+{
+  "v3_original_file_count": 12,
+  "items": [
+    {
+      "file": "references/hack-penulisan.md",
+      "sha256": "02c66e29b6241c93c549d2dea0200e46b27279335ea04e7a72ad47f180fe8ceb",
+      "identical_v3": true
+    },
+    {
+      "file": "references/hack-prafrasesitasi.md",
+      "sha256": "447236168a8ee2ad008e52be6735b0709bdc824af33a91c1eb92d83ca7eeb176",
+      "identical_v3": true
+    },
+    {
+      "file": "references/kaidah-bahasa-indonesia-eyd-v.md",
+      "sha256": "f207e72aa86e8d1f487d95971ff64a898b8b6f48f1a173a353497b905410012d",
+      "identical_v3": true
+    },
+    {
+      "file": "references/larangan-pola-ai-ilmiah.md",
+      "sha256": "229c640bb117d38f636633b1cf74f09e214fcfc5578663e3a595b738e8e4876d",
+      "identical_v3": true
+    },
+    {
+      "file": "references/protokol-parafrase-sitasi.md",
+      "sha256": "421ffa0b0d8e23ece3a4fec4502ca9de93691b1098ce3898d49ef1815fe06bf9",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/contoh-koreksi-eyd-v.md",
+      "sha256": "285b085c79527b72b4b2662218ded9899ec6c16ed106d0142d21418035360b5a",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/contoh-penerapan-parafrase-sitasi.md",
+      "sha256": "f31d01d5b33d1b318d77e1c95918c22a0bac3b3455bde700081227d8e172fa41",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/matriks-bukti.md",
+      "sha256": "e9dffd650c46a1d4f59666335f98191adb6bb4d1ae4aeb7e3e70f49993e9ce23",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/template-audit-bahasa-indonesia.md",
+      "sha256": "b672e500c0d1b63d6bea18fd30d13de1205e625bfaac9a512e5c8d4f4179cb4e",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/template-audit-lpa.md",
+      "sha256": "58a25cc70e023ec62ae0e1ee1daafeac8897c049bcd471b960b63719e1a9f267",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/template-audit-parafrase-sitasi.md",
+      "sha256": "863c4454adceca5ed0d984ea840136dac9ad89fb8168a96d023bb309c2536d19",
+      "identical_v3": true
+    },
+    {
+      "file": "assets/template-audit.md",
+      "sha256": "7c320c755971cbe701826ad839ea522d683f1393243efea454bb9a2760faf4ae",
+      "identical_v3": true
+    }
+  ]
+}

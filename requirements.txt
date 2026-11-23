@@ -1,0 +1,4 @@
+# Hanya diperlukan untuk ekspor Word dan sinkronisasi daftar isi PDF.
+python-docx>=1.1,<2
+pypdf>=5,<7
+# Konversi PDF menggunakan LibreOffice yang terinstal di OS, bukan paket pip.

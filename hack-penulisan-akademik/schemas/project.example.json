@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "university": "",
+  "program": "",
+  "student_name": "",
+  "student_id": "",
+  "year": null,
+  "method": "",
+  "research_object": "",
+  "research_questions": [ { "id": "Q1", "text": "" } ],
+  "objectives": [ { "id": "O1", "text": "" } ],
+  "alignment": [ { "question_id": "Q1", "objective_id": "O1", "method": "", "result_claim_ids": [] } ],
+  "citation_style": "APA7",
+  "visual_review_confirmed": false,
+  "formatting": { "font": "Times New Roman", "font_size_pt": 12, "line_spacing": 1.5, "margin_left_cm": 4, "margin_right_cm": 3, "margin_top_cm": 3.5, "margin_bottom_cm": 3 }
+}
